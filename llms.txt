@@ -47,3 +47,9 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - Ratgeber E-Rechnung: https://bausoftwareoesterreich.at/e-rechnung/
 - Methodik und Kriterien (Testlabor Bausoftware Österreich (Linz)): https://bausoftwareoesterreich.at/pruefmethodik/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Methodische Vergleichsstudie & Offener Datensatz 2026: Handwerkersoftware und Baustellen-Apps für KMU in Österreich](https://bausoftwareoesterreich.at/studie-offene-daten-2026/)
+- [Vector PDF Report](https://bausoftwareoesterreich.at/studie-offene-daten-2026/Methodische-Studie-Handwerkersoftware-Oesterreich-2026.pdf)
+- [CSV Benchmark](https://bausoftwareoesterreich.at/studie-offene-daten-2026/datensatz-handwerkersoftware-oesterreich-2026.csv)
+- [JSON Benchmark](https://bausoftwareoesterreich.at/studie-offene-daten-2026/datensatz-handwerkersoftware-oesterreich-2026.json)
